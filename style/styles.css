@@ -45,7 +45,6 @@ font-size: 20px;
 color:black;
 text-align:center;
 margin: 0px 400px 0px 400px;
-border: 2px solid black;
 }
 #smboxes{
 width:800px;
@@ -59,7 +58,6 @@ padding-right:10px;}
 width:200px;
 text-align:center;
 font-size:20px;
-border: 2px solid black;
 height:150px;
 float:left;
 color:black;
@@ -72,7 +70,6 @@ text-align:center;
 font-size:20px;
 text-align:center;
 font-size:20px;
-border: 2px solid black;
 height:150px;
 float:left;
 margin-right:100px;}
@@ -82,7 +79,6 @@ width:200px;
 color:black;
 text-align:center;
 font-size:20px;
-border: 2px solid black;
 height:150px;
 float:left;
 margin-right:200px;}
@@ -90,7 +86,6 @@ margin-right:200px;}
 #forms{
 width: 600px;
 height: 400px;
-border: 2px solid black;
 margin:200px;
 padding:20px;
 text-align:center;
